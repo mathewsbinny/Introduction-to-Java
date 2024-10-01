@@ -1,0 +1,168 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="bcd68c7d-a5c4-434a-91ef-46263f348080" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/sqlite_jdbc_3_43_0_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/IntroductionJava.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/openjfx-22.0.1_windows-x64_bin-sdk/javafx-sdk-22.0.1/legal/javafx.base/ADDITIONAL_LICENSE_INFO" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/openjfx-22.0.1_windows-x64_bin-sdk/javafx-sdk-22.0.1/legal/javafx.base/ASSEMBLY_EXCEPTION" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/openjfx-22.0.1_windows-x64_bin-sdk/javafx-sdk-22.0.1/legal/javafx.base/LICENSE" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/openjfx-22.0.1_windows-x64_bin-sdk/javafx-sdk-22.0.1/legal/javafx.controls/ADDITIONAL_LICENSE_INFO" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/openjfx-22.0.1_windows-x64_bin-sdk/javafx-sdk-22.0.1/legal/javafx.controls/ASSEMBLY_EXCEPTION" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/openjfx-22.0.1_windows-x64_bin-sdk/javafx-sdk-22.0.1/legal/javafx.controls/LICENSE" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/openjfx-22.0.1_windows-x64_bin-sdk/javafx-sdk-22.0.1/legal/javafx.fxml/ADDITIONAL_LICENSE_INFO" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/openjfx-22.0.1_windows-x64_bin-sdk/javafx-sdk-22.0.1/legal/javafx.fxml/ASSEMBLY_EXCEPTION" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/openjfx-22.0.1_windows-x64_bin-sdk/javafx-sdk-22.0.1/legal/javafx.fxml/LICENSE" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/openjfx-22.0.1_windows-x64_bin-sdk/javafx-sdk-22.0.1/legal/javafx.graphics/ADDITIONAL_LICENSE_INFO" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/openjfx-22.0.1_windows-x64_bin-sdk/javafx-sdk-22.0.1/legal/javafx.graphics/ASSEMBLY_EXCEPTION" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/openjfx-22.0.1_windows-x64_bin-sdk/javafx-sdk-22.0.1/legal/javafx.graphics/LICENSE" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/openjfx-22.0.1_windows-x64_bin-sdk/javafx-sdk-22.0.1/legal/javafx.graphics/jpeg_fx.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/openjfx-22.0.1_windows-x64_bin-sdk/javafx-sdk-22.0.1/legal/javafx.graphics/mesa3d.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/openjfx-22.0.1_windows-x64_bin-sdk/javafx-sdk-22.0.1/legal/javafx.media/ADDITIONAL_LICENSE_INFO" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/openjfx-22.0.1_windows-x64_bin-sdk/javafx-sdk-22.0.1/legal/javafx.media/ASSEMBLY_EXCEPTION" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/openjfx-22.0.1_windows-x64_bin-sdk/javafx-sdk-22.0.1/legal/javafx.media/LICENSE" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/openjfx-22.0.1_windows-x64_bin-sdk/javafx-sdk-22.0.1/legal/javafx.media/directshow.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/openjfx-22.0.1_windows-x64_bin-sdk/javafx-sdk-22.0.1/legal/javafx.media/glib.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/openjfx-22.0.1_windows-x64_bin-sdk/javafx-sdk-22.0.1/legal/javafx.media/gstreamer.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/openjfx-22.0.1_windows-x64_bin-sdk/javafx-sdk-22.0.1/legal/javafx.media/libffi.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/openjfx-22.0.1_windows-x64_bin-sdk/javafx-sdk-22.0.1/legal/javafx.swing/ADDITIONAL_LICENSE_INFO" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/openjfx-22.0.1_windows-x64_bin-sdk/javafx-sdk-22.0.1/legal/javafx.swing/ASSEMBLY_EXCEPTION" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/openjfx-22.0.1_windows-x64_bin-sdk/javafx-sdk-22.0.1/legal/javafx.swing/LICENSE" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/openjfx-22.0.1_windows-x64_bin-sdk/javafx-sdk-22.0.1/legal/javafx.web/ADDITIONAL_LICENSE_INFO" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/openjfx-22.0.1_windows-x64_bin-sdk/javafx-sdk-22.0.1/legal/javafx.web/ASSEMBLY_EXCEPTION" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/openjfx-22.0.1_windows-x64_bin-sdk/javafx-sdk-22.0.1/legal/javafx.web/LICENSE" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/openjfx-22.0.1_windows-x64_bin-sdk/javafx-sdk-22.0.1/legal/javafx.web/icu_web.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/openjfx-22.0.1_windows-x64_bin-sdk/javafx-sdk-22.0.1/legal/javafx.web/libxml2.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/openjfx-22.0.1_windows-x64_bin-sdk/javafx-sdk-22.0.1/legal/javafx.web/libxslt.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/openjfx-22.0.1_windows-x64_bin-sdk/javafx-sdk-22.0.1/legal/javafx.web/webkit.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/openjfx-22.0.1_windows-x64_bin-sdk/javafx-sdk-22.0.1/lib/javafx-swt.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/openjfx-22.0.1_windows-x64_bin-sdk/javafx-sdk-22.0.1/lib/javafx.base.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/openjfx-22.0.1_windows-x64_bin-sdk/javafx-sdk-22.0.1/lib/javafx.controls.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/openjfx-22.0.1_windows-x64_bin-sdk/javafx-sdk-22.0.1/lib/javafx.fxml.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/openjfx-22.0.1_windows-x64_bin-sdk/javafx-sdk-22.0.1/lib/javafx.graphics.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/openjfx-22.0.1_windows-x64_bin-sdk/javafx-sdk-22.0.1/lib/javafx.media.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/openjfx-22.0.1_windows-x64_bin-sdk/javafx-sdk-22.0.1/lib/javafx.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/openjfx-22.0.1_windows-x64_bin-sdk/javafx-sdk-22.0.1/lib/javafx.swing.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/openjfx-22.0.1_windows-x64_bin-sdk/javafx-sdk-22.0.1/lib/javafx.web.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/openjfx-22.0.1_windows-x64_bin-sdk/javafx-sdk-22.0.1/src.zip" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Chapter22/ClosestPairsDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Chapter22/CompareY.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Chapter22/Pair.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Chapter22/PerformanceTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Chapter22/Point.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Chapter23/HeapSortTimeCalculator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Chapter23/InsertionSortTimeCalculator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Chapter25/BinarySearchTree.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Chapter25/BinaryTreeTraversal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Chapter25/FullBinaryTree.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Chapter25/Question2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Chapter25/TreeNode.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Chapter26/AVLTestProgram.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Chapter26/BSTTestProgram.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Chapter29/DjikstraAdjacencyMatrix.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Chapter31/Client.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Chapter31/Server.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Chapter4/ComparisonMethodsInStringClass.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Chapter4/ConversionBetweenStringsAndNumbers.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Chapter4/EscapeSequencesForSpecialCharacters.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Chapter4/MethodsInCharacterClass.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Chapter4/SimpleMethodsInStringClass.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Chapter4/SubstringMethodsInStringClass.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Chapter6/TestMax.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Chapter6/TestMethodOverloading.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Chapter6/TestReturnGradeMethod.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Chapter6/TestVoidMethod.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Chapter7/AnalyzeNumbers.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+        <option value="JavaFXApplication" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 8
+}]]></component>
+  <component name="ProjectId" id="2cLW6IKiOFh9lvbXSH4i9JwFVzc" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ASKED_ADD_EXTERNAL_FILES": "true",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "git-widget-placeholder": "master",
+    "ignore.virus.scanning.warn.message": "true",
+    "jdk.selected.JAVA_MODULE": "11",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "C:/JavaProgramming/IntroductionJava/openjfx-22.0.1_windows-x64_bin-sdk/javafx-sdk-22.0.1/lib",
+    "nodejs_package_manager_path": "npm",
+    "project.structure.last.edited": "Libraries",
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.2",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RunManager">
+    <configuration default="true" type="Application" factoryName="Application">
+      <option name="ALTERNATIVE_JRE_PATH" value="20" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
+      <module name="IntroductionJava" />
+      <option name="VM_PARAMETERS" value="--module-path &quot;C:\JavaProgramming\IntroductionJava\openjfx-22.0.1_windows-x64_bin-sdk\javafx-sdk-22.0.1\lib&quot; --add-module=javafx.controls, javafx.fxml, javafx.graphics, javafx.media" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-jdk-9823dce3aa75-b114ca120d71-intellij.indexing.shared.core-IU-242.20224.300" />
+        <option value="bundled-js-predefined-d6986cc7102b-410509235cf1-JavaScript-IU-242.20224.300" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="bcd68c7d-a5c4-434a-91ef-46263f348080" name="Changes" comment="" />
+      <created>1707891165149</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1707891165149</updated>
+      <workItem from="1727767701134" duration="106000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+  </component>
+</project>
